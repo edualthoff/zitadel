@@ -223,6 +223,7 @@ RegistrationUser:
   Japanese: 日本語
   Spanish: Español
   Bulgarian: Български
+  Portugues: Portugues
   GenderLabel: Género
   Female: Mujer
   Male: Hombre
@@ -256,6 +257,7 @@ ExternalRegistrationUserOverview:
   Japanese: 日本語
   Polish: Polski
   Spanish: Español
+  Portugues: Portugues
   TosAndPrivacyLabel: Términos y condiciones
   TosConfirm: Acepto los
   TosLinkText: TDS
@@ -317,6 +319,7 @@ ExternalNotFound:
   Polish: Polski
   Japanese: 日本語
   Spanish: Español
+  Portugues: Portugues
 
 Footer:
   PoweredBy: Powered By

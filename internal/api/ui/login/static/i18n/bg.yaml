@@ -221,6 +221,7 @@ RegistrationUser:
   Japanese: 日本語
   Spanish: Español
   Bulgarian: Български
+  Portugues: Portugues
   GenderLabel: Пол
   Female: Женски пол
   Male: Мъжки
@@ -253,6 +254,7 @@ ExternalRegistrationUserOverview:
   Japanese: 日本語
   Polish: Полски
   Spanish: Español
+  Portugues: Portugues
   TosAndPrivacyLabel: Правила и условия
   TosConfirm: Приемам
   TosLinkText: TOS
@@ -309,6 +311,7 @@ ExternalNotFound:
   Polish: Полски
   Japanese: 日本語
   Spanish: Español
+  Portugues: Portugues
 DeviceAuth:
   Title: Упълномощаване на устройството
   UserCode:
